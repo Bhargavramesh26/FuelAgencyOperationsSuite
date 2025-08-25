@@ -20,9 +20,9 @@ create dummy data using POSTMAN in customer and cylinder table. Hit these API en
 JSON
 ```
 {
-  "firstName": "Manas",
-  "lastName": "gupta",
-  "email": "harshguptahype@gmail.com",
+  "firstName": "Bhargav",
+  "lastName": "ramesh",
+  "email": "bhargav15032004@gmail.com",
   "phone": "4394568692",
   "address": "234 Main Street, Malborne",
   "connectionType": "DOMESTIC",
